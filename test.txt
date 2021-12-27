@@ -1,3 +1,4 @@
 git에서수정
+gtihub에서 수정
 master에서수정
 user에서수정
